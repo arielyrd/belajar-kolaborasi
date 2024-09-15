@@ -1,2 +1,2 @@
 # belajar-kolaborsi
-Belajar GitHub di Dicoding
+Belajar GitHub di Dicoding sangat menyenangkan.
