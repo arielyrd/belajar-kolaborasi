@@ -1,2 +1,2 @@
-# belajar-kolaborasi
-GitHub sangat asik
+# belajar-kolaborsi
+Belajar GitHub di Dicoding
